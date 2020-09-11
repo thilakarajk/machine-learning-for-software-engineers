@@ -12,9 +12,11 @@
   </a>
 </p>
 
-Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university).
+Inspired by [Coding Interview University](https://github.com/jwasham/coding-interview-university).
 
-Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-pt-BR.md) | [中文版本](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)
+Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-pt-BR.md) | [中文版本](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md) | [Français](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-fr-FR.md) | [臺灣華語版本](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-TW.md)
+
+[How I (Nam Vu) plan to become a machine learning engineer](https://www.codementor.io/zuzoovn/how-i-plan-to-become-a-machine-learning-engineer-a4metbcuk)
 
 ## What is it?
 
@@ -161,6 +163,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Part 5: Language Translation with Deep Learning and the Magic of Sequences](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.wyfthap4c)
 - [ ] [Part 6: How to do Speech Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a#.lhr1nnpcy)
 - [ ] [Part 7: Abusing Generative Adversarial Networks to Make 8-bit Pixel Art](https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7)
+- [ ] [Part 8: How to Intentionally Trick Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-8-how-to-intentionally-trick-neural-networks-b55da32b7196)
 
 ## [Inky Machine Learning](https://triskell.github.io/2016/11/15/Inky-Machine-Learning.html)
 - [ ] [Part 1: What is Machine Learning ?](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
@@ -240,6 +243,9 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [GitHub repository](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 - [ ] [Machine Learning with TensorFlow(MEAP)](https://www.manning.com/books/machine-learning-with-tensorflow)
     - [GitHub repository](https://github.com/BinRoot/TensorFlow-Book)
+- [ ] [How Machine Learning Works (MEAP)](https://www.manning.com/books/how-machine-learning-works)
+    - [GitHub repository](https://github.com/Mostafa-Samir/How-Machine-Learning-Works)
+- [ ] [Succeeding with AI](https://www.manning.com/books/succeeding-with-ai)
 
 ## Kaggle knowledge competitions
 - [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
@@ -268,13 +274,18 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [21 Deep Learning Videos, Tutorials & Courses on Youtube from 2016](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)
 - [ ] [30 Top Videos, Tutorials & Courses on Machine Learning & Artificial Intelligence from 2016](https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/)
 - [ ] [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
+- [ ]  [Practical Deep Learning For Coders Version 2 (PyTorch)](http://forums.fast.ai/t/welcome-to-part-1-v2/5787)
 
 ## MOOC
+- [ ] [Coursera’s AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 - [ ] [edX's Introduction to Artificial Intelligence (AI)](https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x)
 - [ ] [Udacity’s Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
     - [Udacity Intro to Machine Learning Review](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html)
 - [ ] [Udacity’s Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
 - [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
+- [ ] [Machine Learning & AI Foundations: Value Estimations](https://www.lynda.com/Data-Science-tutorials/Machine-Learning-Essential-Training-Value-Estimations/548594-2.html)
+- [ ] [Kaggle's Hands-On Data Science Education](https://www.kaggle.com/learn/overview)
+- [ ] [Microsoft Professional Program for Artificial Intelligence](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
 - [ ] [Coursera’s Machine Learning](https://www.coursera.org/learn/machine-learning)
     - [Video only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
     - [Coursera Machine Learning review](https://rayli.net/blog/data/coursera-machine-learning-review/)
@@ -295,6 +306,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Absolute Beginning into Machine Learning](https://hackernoon.com/absolute-beginning-into-machine-learning-e90ceda5a4bc)
 - [ ] [Learn Machine Learning in a Single Month](https://elitedatascience.com/machine-learning-masterclass)
 - [ ] [The Non-Technical Guide to Machine Learning & Artificial Intelligence](https://medium.com/@samdebrule/a-humans-guide-to-machine-learning-e179f43b67a0#.cpzf3a5c0)
+- [ ] [Programming Community Curated Resources for learning Machine Learning](https://hackr.io/tutorials/learn-machine-learning-ml)
 - [ ] [Best practices rule book for Machine Learning engineering from Google](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - [ ] [Machine Learning for Software Engineers on Hacker News](https://news.ycombinator.com/item?id=12898718)
 - [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/)
@@ -328,19 +340,13 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [Deep learning](https://medium.com/tag/deep-learning)
     - [Artificial Intelligence](https://medium.com/tag/artificial-intelligence)
 - Monthly top 10 articles
-    - Machine Learning
-        - [July 2016](https://medium.mybridge.co/top-ten-machine-learning-articles-for-the-past-month-9c1202351144#.lyycen64y)
-        - [August 2016](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-2f3cb815ffed#.i9ee7qkjz)
-        - [September 2016](https://medium.mybridge.co/machine-learning-top-10-in-september-6838169e9ee7#.4jbjcibft)
-        - [October 2016](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-35c37825a943#.td5im1p5z)
-        - [November 2016](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-b499e4213a34#.7k39i08tv)
-        - [Year 2016](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0#.wtx2mchqn)
-    - Algorithms
-        - [September 2016](https://medium.mybridge.co/algorithm-top-10-articles-in-september-8a0e6afb0807#.hgjzuyxdb)
-        - [October-November 2016](https://medium.mybridge.co/algorithm-top-10-articles-v-november-e73cba2fa87e#.kothimkhb)
+    - [Machine Learning](https://medium.mybridge.co/search?q=%22Machine%20Learning%22)
+    - [Algorithms](https://medium.mybridge.co/search?q=Algorithms)
 - [Comprehensive list of data science resources](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
 - [DigitalMind's Artificial Intelligence resources](http://blog.digitalmind.io/post/artificial-intelligence-resources)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
+- [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
 - [CreativeAi's Machine Learning](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
 
 ## Games
@@ -369,6 +375,9 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [Data Skeptic](http://dataskeptic.com/)
     - [This Week in Machine Learning & AI](https://twimlai.com/)
     - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
+    
+- ### Interviews with ML Practitioners, Researchers and Kagglers about their Joureny
+    - [Chai Time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x), [Audio](http://anchor.fm/chaitimedatascience), [Writeups](https://sanyambhutani.com/tag/chaitimedatascience/)
 
 - ### "More" advanced podcasts
     - [Partially Derivative](http://partiallyderivative.com/)
@@ -377,7 +386,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 - ### Podcasts to think outside the box:
     - [Data Stories](http://datastori.es/)
-
+    
 ## Communities
 - Quora
     - [Machine Learning](https://www.quora.com/topic/Machine-Learning)
@@ -418,7 +427,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [What are some common Machine Learning interview questions?](https://www.quora.com/What-are-some-common-Machine-Learning-interview-questions)
 - [ ] [What are the best interview questions to evaluate a machine learning researcher?](https://www.quora.com/What-are-the-best-interview-questions-to-evaluate-a-machine-learning-researcher)
 - [ ] [Collection of Machine Learning Interview Questions](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
-- [ ] [121 Essential Machine Learning Questions & Answers](https://learn.elitedatascience.com/mlqa-welcome)
+- [ ] [121 Essential Machine Learning Questions & Answers](https://elitedatascience.com/mlqa-reading-list)
 
 
 ## My admired companies
